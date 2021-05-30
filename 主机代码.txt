@@ -1,0 +1,44 @@
+推荐：freenom.com
+cloudflare.com
+sudo -i
+一，
+Ubuntu 16.04 / Debian 9  优巴兔
+wget -O ubuntu-ss-install.sh https://github.com/M3chD09/shadowsocks-with-v2ray-plugin-install/raw/master/ubuntu-ss-install.sh
+chmod +x ubuntu-ss-install.sh
+./ubuntu-ss-install.sh
+
+
+
+44444
+wget -N --no-check-certificate -q https://cdn.jsdelivr.net/gh/h31105/trojan_v2_docker_onekey/deploy.sh && \
+chmod +x deploy.sh && bash deploy.sh
+
+相关管理命令（英文才是命令，直接复制）
+systemctl status shadowsocks              #运行状态
+systemctl start shadowsocks                #启动
+systemctl stop shadowsocks               #停止
+
+二，
+3. 一键安装脚本： wget -N --no-check-certificate -q -O install.sh "https://raw.githubusercontent.com/wulabing/V2Ray_ws-tls_bash_onekey/master/install.sh" && chmod +x install.sh && bash install.sh
+
+IBM
+wget --no-check-certificate -O install.sh https://raw.githubusercontent.com/CCChieh/IBMYes/master/install.sh && chmod +x install.sh  && ./install.sh
+
+
+台湾节点
+Your Server IP        :  aaa.15172154639.ga 
+Your Server Port      :  443 
+Your Password         :  tyg1398824633 
+Your Encryption Method:  aes-256-gcm 
+Your Plugin           :  v2ray-plugin
+Your Plugin options   :  tls;host=aaa.15172154639.ga
+Enjoy it!
+root@taiwan1:~# 
+
+视频下载：https://www.hotbox.fun/streaming
+字幕下载：https://zhuwei.me/y2b/?
+
+vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJ3dWxhYmluZ19hYWEuMTUxNzIxNTQ2MzkubWwiLAogICJhZGQiOiAiYWFhLjE1MT
+cyMTU0NjM5Lm1sIiwKICAicG9ydCI6ICI0NDMiLAogICJpZCI6ICJlZGE5MDhlMy1hNzQ5LTQ1MzEtYThhNi0xY2U3MzhhODMwZjkiLAogICJhaWQiO
+iAiMzIiLAogICJuZXQiOiAid3MiLAogICJ0eXBlIjogIm5vbmUiLAogICJob3N0IjogImFhYS4xNTE3MjE1NDYzOS5tbCIsCiAgInBhdGgiOiAiLzlk
+NGI4NDM3OTExMmNkYi8iLAogICJ0bHMiOiAidGxzIgp9Cg==
